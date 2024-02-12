@@ -15,6 +15,7 @@ body {
 }
 
 
+
 .nav-bar {
     background-color: #efa9b1;
     display: flex;
@@ -46,9 +47,9 @@ body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.nav-options-div:hover {
+.nav-options-div : hover {
     background-color: transparent;
-    color: white;
+    color : white;
 }
 
 .special-option {
